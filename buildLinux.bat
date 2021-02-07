@@ -1,0 +1,1 @@
+mvn clean package -DskipTests -Djavacpp.platform=linux-x86_64

@@ -1,0 +1,1 @@
+java -Dlogback.configurationFile=logback.xml -jar ${project.name}-${project.version}.jar $1 $2

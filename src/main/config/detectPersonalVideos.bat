@@ -1,0 +1,10 @@
+java -Dlogback.configurationFile=logback.xml -Xmx4096m -jar ${project.name}-${project.version}.jar C:\test\CV_Testdata\9013350_abuech2s_1.mp4 C:\result\
+java -Dlogback.configurationFile=logback.xml -Xmx4096m -jar ${project.name}-${project.version}.jar C:\test\CV_Testdata\9013350_abuech2s_2.mp4 C:\result\
+java -Dlogback.configurationFile=logback.xml -Xmx4096m -jar ${project.name}-${project.version}.jar C:\test\CV_Testdata\9013350_abuech2s_3.mp4 C:\result\
+java -Dlogback.configurationFile=logback.xml -Xmx4096m -jar ${project.name}-${project.version}.jar C:\test\CV_Testdata\9013350_abuech2s_4.mp4 C:\result\
+java -Dlogback.configurationFile=logback.xml -Xmx4096m -jar ${project.name}-${project.version}.jar C:\test\CV_Testdata\9013350_abuech2s_5.mp4 C:\result\
+java -Dlogback.configurationFile=logback.xml -Xmx4096m -jar ${project.name}-${project.version}.jar C:\test\CV_Testdata\9013350_abuech2s_6.mp4 C:\result\
+java -Dlogback.configurationFile=logback.xml -Xmx4096m -jar ${project.name}-${project.version}.jar C:\test\CV_Testdata\9013350_abuech2s_7.mp4 C:\result\
+java -Dlogback.configurationFile=logback.xml -Xmx4096m -jar ${project.name}-${project.version}.jar C:\test\CV_Testdata\9013350_abuech2s_8.mp4 C:\result\
+java -Dlogback.configurationFile=logback.xml -Xmx4096m -jar ${project.name}-${project.version}.jar C:\test\CV_Testdata\9013350_abuech2s_9.mp4 C:\result\
+java -Dlogback.configurationFile=logback.xml -Xmx4096m -jar ${project.name}-${project.version}.jar C:\test\CV_Testdata\9013350_abuech2s_10.mp4 C:\result\
