@@ -1,6 +1,5 @@
-# bottlecapdetection
+# BottleCap Detection
 CV20 BottleCap Detection
-
 
 created by Alexander Buechel
 Delivery date: 07.02.2021 at CV20 course
