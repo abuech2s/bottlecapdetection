@@ -19,7 +19,7 @@ Delivery date: 07.02.2021 at CV20 course
 mvn clean package -DskipTests -Djavacpp.platform=windows-x86_64
 ```
 
-###Linux:
+### Linux:
 ```shell
 mvn clean package -DskipTests -Djavacpp.platform=linux-x86_64
 ```
