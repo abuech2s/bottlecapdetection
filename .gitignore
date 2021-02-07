@@ -66,3 +66,6 @@ target/
 ### Eclipse Patch ###
 # Spring Boot Tooling
 .sts4-cache/
+
+*_err_pid*.log
+replay_pid*.log
